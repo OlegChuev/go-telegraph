@@ -1,6 +1,6 @@
 package telegraph
 
-import telegraph "go-telegraph/api/types"
+import telegraph "github.com/OlegChuev/go-telegraph/api/types"
 
 // IClient defines the interface for the Telegraph API client.
 type IClient interface {

@@ -1,8 +1,8 @@
 package telegraph
 
 import (
-	telegraph "go-telegraph/api/types"
-	"go-telegraph/pkg"
+	telegraph "github.com/OlegChuev/go-telegraph/api/types"
+	"github.com/OlegChuev/go-telegraph/pkg"
 )
 
 // This object represents a get Telegraph page list request params.

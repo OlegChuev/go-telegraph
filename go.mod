@@ -1,4 +1,4 @@
-module go-telegraph
+module github.com/OlegChuev/go-telegraph
 
 go 1.22.1
 

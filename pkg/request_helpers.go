@@ -3,12 +3,13 @@ package pkg
 import (
 	"bytes"
 	"encoding/json"
-	telegraph_errors "go-telegraph/api/errors"
-	telegraph "go-telegraph/api/types"
 	"io"
 	"net/http"
 	"net/url"
 	"reflect"
+
+	telegraph_errors "github.com/OlegChuev/go-telegraph/api/errors"
+	telegraph "github.com/OlegChuev/go-telegraph/api/types"
 
 	"gopkg.in/validator.v2"
 )
